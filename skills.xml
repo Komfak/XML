@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MYSKILLS>
+    <THEORY>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.)</THEORY>
+    <SERVER>What is client-server architecture. Access to remote servers.</SERVER>
+    <TERMINAL_LINUX>Linux command line (terminal) (copying, creating, viewing, moving files on servers without a graphical interface)</TERMINAL_LINUX>
+    <HTTP>HTTP Server request methods,HTTP server response codes,HTTP request and response structures.</HTTP>
+    <TRAFFIC>API testing via Postman (JS, API autotests)</TRAFFIC>
+    <API>Sniffing http web traffic via Charles and Fiddler</API>
+    <TOOLS>Dev Tools of web browsers (Google Chrome, FireFox).</TOOLS>
+    <VPN>How it works, why it is needed, how to use it, tool options</VPN>
+    <MOBILE_TESTING>Building Android apps on Android Studio, ADB (android Device Management), Configuring proxies and VPNs on iOS and Android</MOBILE_TESTING>
+    <SNIFFING> Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android.</SNIFFING>
+    <SQL>Basics of SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join),Postgres database (installation, configuration and usage).</SQL>
+    <JMETER>Load testing in Jmeter</JMETER>
+    <SCRUM>Development Methodology</SCRUM>
+    <PYTHON>Learning the basics. Creating a client server application</PYTHON>
+</MYSKILLS>
